@@ -6,65 +6,65 @@
       <description>Last 10 notes on Quartz 4</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>1.AI vs ML vs DL</title>
+    <link>https://quartz.jzhao.xyz/1.AI-vs-ML-vs-DL</link>
+    <guid>https://quartz.jzhao.xyz/1.AI-vs-ML-vs-DL</guid>
+    <description><![CDATA[ 1️⃣ What is Artificial Intelligence (AI) Definition: Artificial Intelligence (AI) is a field of computer science that enables machines to perform tasks that typically require human intelligence. ]]></description>
+    <pubDate>Wed, 22 Oct 2025 07:43:43 GMT</pubDate>
+  </item><item>
+    <title>2.Machine Learning (ML)</title>
+    <link>https://quartz.jzhao.xyz/2.Machine-Learning-(ML)</link>
+    <guid>https://quartz.jzhao.xyz/2.Machine-Learning-(ML)</guid>
+    <description><![CDATA[ 🧠 Machine Learning (ML) 🔹 Definition: Machine Learning is a subset of Artificial Intelligence (AI) that enables a system to learn patterns from data and make predictions or decisions without being explicitly programmed for every rule. ]]></description>
+    <pubDate>Wed, 22 Oct 2025 07:43:43 GMT</pubDate>
+  </item><item>
+    <title>3.Deep Learning (DL)</title>
+    <link>https://quartz.jzhao.xyz/3.Deep-Learning-(DL)</link>
+    <guid>https://quartz.jzhao.xyz/3.Deep-Learning-(DL)</guid>
+    <description><![CDATA[ 🤖 Deep Learning (DL) 🔹 Definition: Deep Learning is a subset of Machine Learning that uses Artificial Neural Networks (ANNs) with many layers to automatically learn complex patterns from large amounts of data — like images, sound, or text. ]]></description>
+    <pubDate>Wed, 22 Oct 2025 07:43:43 GMT</pubDate>
+  </item><item>
+    <title>4.Generative AI and LLM Foundations</title>
+    <link>https://quartz.jzhao.xyz/4.Generative-AI-and-LLM-Foundations</link>
+    <guid>https://quartz.jzhao.xyz/4.Generative-AI-and-LLM-Foundations</guid>
+    <description><![CDATA[  Machine Learning (ML): ML is a subset of AI that enables systems to learn patterns from data and make predictions or decisions without being explicitly programmed. ]]></description>
+    <pubDate>Wed, 22 Oct 2025 07:43:43 GMT</pubDate>
+  </item><item>
     <title>0. CPU vs GPU</title>
     <link>https://quartz.jzhao.xyz/0.-CPU-vs-GPU</link>
     <guid>https://quartz.jzhao.xyz/0.-CPU-vs-GPU</guid>
     <description><![CDATA[ 🧠 CPU vs GPU – What They Are and Role in AI/ML 1️⃣ CPU (Central Processing Unit) The “brain” of your computer. ]]></description>
-    <pubDate>Sat, 18 Oct 2025 11:07:56 GMT</pubDate>
-  </item><item>
-    <title>8. Customize LLMs with your Data</title>
-    <link>https://quartz.jzhao.xyz/8.-Customize-LLMs-with-your-Data</link>
-    <guid>https://quartz.jzhao.xyz/8.-Customize-LLMs-with-your-Data</guid>
-    <description><![CDATA[  🧠 How to Customize LLMs with Our Data ⚙️ 1. ]]></description>
-    <pubDate>Sat, 18 Oct 2025 09:04:13 GMT</pubDate>
-  </item><item>
-    <title>7. Prompt Engineering</title>
-    <link>https://quartz.jzhao.xyz/7.-Prompt-Engineering</link>
-    <guid>https://quartz.jzhao.xyz/7.-Prompt-Engineering</guid>
-    <description><![CDATA[  🧠 How an LLM Processes Your Prompt Tokenization: Your prompt (sentence) is broken into small pieces called tokens (words or parts of words). ]]></description>
-    <pubDate>Sat, 18 Oct 2025 08:57:27 GMT</pubDate>
+    <pubDate>Tue, 21 Oct 2025 17:02:51 GMT</pubDate>
   </item><item>
     <title>5. LLMs Large Language Model</title>
     <link>https://quartz.jzhao.xyz/5.-LLMs-Large-Language-Model</link>
     <guid>https://quartz.jzhao.xyz/5.-LLMs-Large-Language-Model</guid>
     <description><![CDATA[  🧠 How LLMs Work (Simple Notes) LLMs (Large Language Models) are a type of Generative AI. ]]></description>
-    <pubDate>Wed, 15 Oct 2025 15:26:06 GMT</pubDate>
+    <pubDate>Tue, 21 Oct 2025 17:02:51 GMT</pubDate>
   </item><item>
     <title>6. Transformers</title>
     <link>https://quartz.jzhao.xyz/6.-Transformers</link>
     <guid>https://quartz.jzhao.xyz/6.-Transformers</guid>
     <description><![CDATA[  ⚡ Transformers (Deep Learning for NLP) 🔹 Background: Why Transformers? Before Transformers, RNNs (Recurrent Neural Networks) were used for text/sequential data. ]]></description>
-    <pubDate>Wed, 15 Oct 2025 15:23:37 GMT</pubDate>
+    <pubDate>Tue, 21 Oct 2025 17:02:51 GMT</pubDate>
   </item><item>
-    <title>Generative AI and LLM Foundations</title>
-    <link>https://quartz.jzhao.xyz/Generative-AI-and-LLM-Foundations</link>
-    <guid>https://quartz.jzhao.xyz/Generative-AI-and-LLM-Foundations</guid>
-    <description><![CDATA[  Machine Learning (ML): ML is a subset of AI that enables systems to learn patterns from data and make predictions or decisions without being explicitly programmed. ]]></description>
-    <pubDate>Tue, 14 Oct 2025 13:15:25 GMT</pubDate>
+    <title>7. Prompt Engineering</title>
+    <link>https://quartz.jzhao.xyz/7.-Prompt-Engineering</link>
+    <guid>https://quartz.jzhao.xyz/7.-Prompt-Engineering</guid>
+    <description><![CDATA[  🧠 How an LLM Processes Your Prompt Tokenization: Your prompt (sentence) is broken into small pieces called tokens (words or parts of words). ]]></description>
+    <pubDate>Tue, 21 Oct 2025 17:02:51 GMT</pubDate>
   </item><item>
-    <title>Deep Learning (DL)</title>
-    <link>https://quartz.jzhao.xyz/Deep-Learning-(DL)</link>
-    <guid>https://quartz.jzhao.xyz/Deep-Learning-(DL)</guid>
-    <description><![CDATA[ 🤖 Deep Learning (DL) 🔹 Definition: Deep Learning is a subset of Machine Learning that uses Artificial Neural Networks (ANNs) with many layers to automatically learn complex patterns from large amounts of data — like images, sound, or text. ]]></description>
-    <pubDate>Sun, 12 Oct 2025 21:18:09 GMT</pubDate>
-  </item><item>
-    <title>Machine Learning (ML)</title>
-    <link>https://quartz.jzhao.xyz/Machine-Learning-(ML)</link>
-    <guid>https://quartz.jzhao.xyz/Machine-Learning-(ML)</guid>
-    <description><![CDATA[ 🧠 Machine Learning (ML) 🔹 Definition: Machine Learning is a subset of Artificial Intelligence (AI) that enables a system to learn patterns from data and make predictions or decisions without being explicitly programmed for every rule. ]]></description>
-    <pubDate>Sun, 12 Oct 2025 14:17:11 GMT</pubDate>
-  </item><item>
-    <title>AI vs ML vs DL</title>
-    <link>https://quartz.jzhao.xyz/AI-vs-ML-vs-DL</link>
-    <guid>https://quartz.jzhao.xyz/AI-vs-ML-vs-DL</guid>
-    <description><![CDATA[ 1️⃣ What is Artificial Intelligence (AI) Definition: Artificial Intelligence (AI) is a field of computer science that enables machines to perform tasks that typically require human intelligence. ]]></description>
-    <pubDate>Sun, 12 Oct 2025 08:00:46 GMT</pubDate>
+    <title>8. Customize LLMs with your Data</title>
+    <link>https://quartz.jzhao.xyz/8.-Customize-LLMs-with-your-Data</link>
+    <guid>https://quartz.jzhao.xyz/8.-Customize-LLMs-with-your-Data</guid>
+    <description><![CDATA[  🧠 How to Customize LLMs with Our Data ⚙️ 1. ]]></description>
+    <pubDate>Tue, 21 Oct 2025 17:02:51 GMT</pubDate>
   </item><item>
     <title>Welcome</title>
     <link>https://quartz.jzhao.xyz/Welcome</link>
     <guid>https://quartz.jzhao.xyz/Welcome</guid>
     <description><![CDATA[ This is your new vault. Make a note of something, create a link, or try the Importer! When you’re ready, delete this note and make the vault your own. ]]></description>
-    <pubDate>Sun, 12 Oct 2025 07:43:07 GMT</pubDate>
+    <pubDate>Tue, 21 Oct 2025 17:02:51 GMT</pubDate>
   </item>
     </channel>
   </rss>
